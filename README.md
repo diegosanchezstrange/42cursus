@@ -18,7 +18,12 @@
 	* Web (HTML, CSS, Wordpress)
 	* Computer graphics
   
-  ### Inner Circle (basic curriculum)
+### Holy Graph
+This are all of the projects available at 42. The circles we see are called the "common core" and those are all the project that every student at 42 has to do. Once you are done with the common core you can choose which path to start from to specialize in a technology
+
+  ![42's holy graph](holy_graph.PNG)
+
+### Inner Circle (basic curriculum)
 
 |CIRCLE	|PROJECT							|TECHNOLOGY				|EXPERIENCE		|STATUS	|
 |:-:	|:--								|:--					|--:			|:-:						|
