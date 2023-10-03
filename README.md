@@ -21,7 +21,7 @@
 ### Holy Graph
 This are all of the projects available at 42. The circles we see are called the "common core" and those are all the project that every student at 42 has to do. Once you are done with the common core you can choose which path to start from to specialize in a technology
 
-  ![42's holy graph](holy_graph.PNG)
+  ![42's holy graph](https://github.com/diegosanchezstrange/42cursus/assets/28633882/e37c8cff-1389-482f-84fb-3d2a3c17745f)
 
 ### Inner Circle (basic curriculum)
 
